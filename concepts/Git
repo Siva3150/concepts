@@ -22,7 +22,7 @@ Distributed Systems
 Distributed version control system always have local copy in every developer laptop, so the history is preserved everywhere.
 Single laptop is enough when the entire system is crashed including Git server.
 Staging area is there where can selectively send the changes to the central repo. He can send completed changes and keep working on in-progress features.
-Developers can work offline with local repos.
+Developers can work offline with local repos...
 
 
 ![Alt text](image.png)
